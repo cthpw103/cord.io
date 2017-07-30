@@ -1,5 +1,5 @@
 /*
-cord.js
+cord.io
 by cth103
 ---------
 Client
