@@ -1,6 +1,8 @@
 /*
 cord.io
 by cth103
+ptn i' detest lé frenc
+t tro meshan disxord :'((((((((((((((((((((((((((((((((((
 */
 
 module.exports = {
